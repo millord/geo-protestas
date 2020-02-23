@@ -1,0 +1,441 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Santo Domingo - Plaza de la Bandera",
+        "DIRECTOR_NAME": "ARIS YVAN LORENZO SUERO",
+        "DIRECCION": "Ave. Heroes de Luperon esq. George Washintong      3 er nivel . (Sector La feria)",
+        "FECHA": "2010/02/22",
+        "TELEFONO": "809-508-6738",
+        "FLOTA": "809-519-1373",
+        "IMAGEN": "https://s.france24.com/media/display/43f06a3a-55b8-11ea-aff9-005056a964fe/w:1240/p:16x9/DOMINICANA%20ELECCIONES%20PROTESTAS.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.974982, 18.449888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Santiago de los Caballeros",
+        "DIRECTOR_NAME": "Aura Espaillat",
+        "DIRECCION": "Aut. Duarte Km 04 no. 04( frente a la fortaleza Fdo. Valerio).",
+        "EMAIL": "Eduardo.Rodriguez@ambiente.gob.do",
+        "TELEFONO": "809-971-7455",
+        "FLOTA": "829-679-9136",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.694582, 19.450992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Hato Mayor del Rey",
+        "DIRECTOR_NAME": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.256369, 18.766424]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Bavaro",
+        "DIRECTOR_NAME": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.45083, 18.699333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Hato Mayor del Rey",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.11935, 51.503425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "The Queens Walk London SE12AA",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.11935, 51.503425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Plaza Callao, Madrid, Espana",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.706194, 40.418926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Hato Mayor del Rey",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.11935, 51.503425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "The Queens Walk London SE12AA",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.11935, 51.503425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "200 17th St NW, Washington, DC, USA",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.04038, 38.892844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "216 w Somerest st, Philadenfia, pa, 19133",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.135429, 39.992885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Altamira,  Puerto Plata",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.687485, 19.785487]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Barcelona ",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.173627, 41.38764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Parque Duarte y Eugenio, Miches, El Seibo",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.036066, 18.763274]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Consulado de RD (C/Carlos Pellegrini), Buenos Aires, Argentina",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.381399, -34.594733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Plaza del Castillo, Pamplona, Navarra",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.643422, 42.816777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Plazoleta, Barahona",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.099614, 18.208577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Montreal, QC, Canada",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.567256, 45.501689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Houston, TX, USA",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.364089, 29.765597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Rio San Juan",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.076065, 19.635603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Moca",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.516638, 19.383277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "San Juan de la Maguana",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.230012, 18.811089]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Nagua",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.85071, 19.379367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "San Francisco de Macoris",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.250514, 19.300037]
+      }
+    }
+  ]
+}
