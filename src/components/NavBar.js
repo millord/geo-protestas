@@ -1,9 +1,9 @@
 import React from "react";
 
-const Navbar = () => {
+const NavBar = () => {
   return (
     <nav className="navbar navbar-light bg-light navbar-expand-lg fixed-top">
-      <a href="#" className="navbar-brand bg-light">
+      <a href="#" className="navbar-brand">
         Geo - Protestas
       </a>
       <button
@@ -16,12 +16,13 @@ const Navbar = () => {
       <div className="collapse navbar-collapse" id="navbarCollapse">
         <ul className="navbar-nav ml-auto">
           <li className="navbar-item">
-            <a className="nav-link" href="#">
+            <a href="#" className="nav-link">
               Inicio
             </a>
           </li>
+
           <li className="navbar-item">
-            <a className="nav-link" href="#">
+            <a href="#" className="nav-link">
               Acerca
             </a>
           </li>
@@ -31,4 +32,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default NavBar;

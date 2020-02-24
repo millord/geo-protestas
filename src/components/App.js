@@ -1,6 +1,6 @@
 import React from "react";
 import ProtestasMap from "./ProtestasMap";
-import NavBar from "./Navbar";
+import NavBar from "./NavBar";
 
 const App = () => {
   return (
