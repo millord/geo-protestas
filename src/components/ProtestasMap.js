@@ -10,7 +10,7 @@ const ProtestasMap = () => {
     <Fragment>
       <Map center={[18.7726333, -69.4162013]} zoom={2}>
         <TileLayer
-          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+          url="https://tile.thunderforest.com/landscape/{z}/{x}/{y}.png?apikey=10d143b5e4714d8ab882278a9372df97"
           attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
         />
         {protestasData.features.map(protesta => (
