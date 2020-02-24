@@ -544,6 +544,60 @@
         "type": "Point",
         "coordinates": [15.977435, 40.658382]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "La Vega",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.523939, 19.217949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Jarabacoa",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.642167, 19.12366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Bonao",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.409126, 18.93167]
+      }
     }
   ]
 }
