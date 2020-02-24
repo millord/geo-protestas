@@ -436,6 +436,114 @@
         "type": "Point",
         "coordinates": [-70.250514, 19.300037]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Amsterdam",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.894536, 52.366696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Elías Piña",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.619703, 19.05205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Azua",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.734708, 18.453184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Valverde",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.980383, 19.586788]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Vancouver, Canada",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.134234, 49.324793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Italia",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "no/non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.977435, 40.658382]
+      }
     }
   ]
 }
