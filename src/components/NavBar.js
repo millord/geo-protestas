@@ -1,34 +1,40 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 
 const NavBar = () => {
   return (
-    <nav className="navbar navbar-light bg-light navbar-expand-lg fixed-top">
-      <a href="#" className="navbar-brand">
-        Geo - Protestas
-      </a>
-      <button
-        className="navbar-toggler"
-        data-toggle="collapse"
-        data-target="#navbarCollapse"
-      >
-        <span className="navbar-toggler-icon"></span>
-      </button>
-      <div className="collapse navbar-collapse" id="navbarCollapse">
-        <ul className="navbar-nav ml-auto">
-          <li className="navbar-item">
-            <a href="#" className="nav-link">
-              Inicio
-            </a>
-          </li>
-
-          <li className="navbar-item">
-            <a href="#" className="nav-link">
-              Acerca
-            </a>
-          </li>
-        </ul>
-      </div>
-    </nav>
+    <div>
+      <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a href="#" className="navbar-brand">
+          Geo - Protestas
+        </a>
+        <button
+          className="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span className="navbar-toggler-icon"></span>
+        </button>
+        <div className="collapse navbar-collapse " id="navbarNav">
+          <ul className="navbar-nav ml-auto">
+            <li className="nav-item active">
+              <NavLink className="nav-link" to="/">
+                Inicio <span className="sr-only">(current)</span>
+              </NavLink>
+            </li>
+            <li className="nav-item active">
+              <NavLink className="nav-link" to="/map">
+                Mapa <span className="sr-only">(current)</span>
+              </NavLink>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
   );
 };
 
