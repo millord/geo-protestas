@@ -7,9 +7,10 @@
 .title {
   text-align: center;
   font-family: "Lacquer";
+  padding-top: 10px;
 }
 
 p {
-  text-align: justify;
+  text-align: center;
   font-size: 1.6rem;
 }

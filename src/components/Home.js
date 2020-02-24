@@ -14,7 +14,7 @@ function Home() {
   return (
     <animated.div className="container" style={fade}>
       <h1 className="title">Geo-Protestas</h1>
-      <br />
+
       <p id="intro">
         <strong style={{ fontSize: "28px" }}>
           <Link to="/map">Mapa </Link>
