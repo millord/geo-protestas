@@ -6,7 +6,7 @@ const NavBar = () => {
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <NavLink to="/" className="navbar-brand">
-          <i class="globe icon"></i>
+          <i class="compass outline icon"></i>
         </NavLink>
         <button
           className="navbar-toggler"
