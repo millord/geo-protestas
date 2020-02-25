@@ -448,7 +448,7 @@
         "EMAIL": "1490, promenade Youville",
         "TELEFONO": "other",
         "FLOTA": "autre",
-        "IMAGEN": "no/non"
+        "IMAGEN": "./amsterdam.j"
       },
       "geometry": {
         "type": "Point",
@@ -597,6 +597,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-70.409126, 18.93167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Eslovenia",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.995463, 46.151241]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTESTA_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Mexico",
+        "DIRECTOR_NAME": "The Queens Walk London SE12AA",
+        "DIRECCION": "1490 Youville Drive",
+        "EMAIL": "1490, promenade Youville",
+        "TELEFONO": "other",
+        "FLOTA": "autre",
+        "IMAGEN": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-102.576426, 23.630405]
       }
     }
   ]
