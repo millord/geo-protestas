@@ -448,7 +448,7 @@
         "EMAIL": "1490, promenade Youville",
         "TELEFONO": "other",
         "FLOTA": "autre",
-        "IMAGEN": "./amsterdam.j"
+        "IMAGEN": "https://i.ibb.co/68Mm4rv/amsterdam.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -610,7 +610,7 @@
         "EMAIL": "1490, promenade Youville",
         "TELEFONO": "other",
         "FLOTA": "autre",
-        "IMAGEN": "NA"
+        "IMAGEN": "https://i.ibb.co/7zSNp0s/eslovenia.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -629,7 +629,7 @@
         "EMAIL": "1490, promenade Youville",
         "TELEFONO": "other",
         "FLOTA": "autre",
-        "IMAGEN": "NA"
+        "IMAGEN": "https://i.ibb.co/7S14hBm/mexico.jpg"
       },
       "geometry": {
         "type": "Point",
